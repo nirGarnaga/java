@@ -1,0 +1,146 @@
+.card-0{
+    color: red;
+    background-color:rgb(0, 0, 0);
+    border-radius: 10px;
+    border: solid 5px  red;
+    box-shadow: 0px 0px 10px black;
+    width: 250px;
+    padding: 10px;
+}
+
+.work{
+    background-color: wheat;
+    border-radius: 5px;
+    border: solid 5px red ;
+    width: 450px;
+    padding: 100px;
+    text-align: center;
+}
+
+
+.btn-send{
+    background-color: rgb(0, 255, 174);
+    border-radius:5px;
+    border:solid 3px black;
+    box-shadow: 0 0 10  px black;
+    transition-duration: 0.3s;
+    cursor: pointer;
+}
+
+.btn-send:hover{
+    background-color: rgb(255, 0, 0);
+    color:rgb(0, 179, 255);
+    transform: scale(2.05);
+    transition-duration: 0.5s;
+}
+
+.spongebob{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:solid 5px red;
+    
+}
+.spongebob:hover{
+    border: solid 5px black;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: green;
+    transform: scale(2.05);
+}
+
+.register {
+ width: 250px;  
+ border-radius: 5px; 
+ color: white;
+ text-align: center;
+}
+
+.dropdown-menu {
+    width: 250px;
+}
+
+.homework{
+
+    color: black;
+    background-color: red;
+    border-radius: 3px;
+}
+
+.homework2{
+    color: black;
+    background-color: green;
+    border-radius: 3px;
+}
+
+.homework3{
+    color: black;
+    background-color: blue;
+    border-radius: 3px;
+
+}
+
+.homework4{
+    color: black;
+    background-color:rgb(252, 150, 167);
+    border-radius: 3px;
+}
+
+.homework5{
+    color: white;
+    background-color:black;
+    border-radius: 3px;  
+}
+
+.homework6{
+    color: black;
+    background-color:rgb(255, 153, 0);
+    border-radius: 3px;
+}
+
+.homework7{
+    color: black;
+    background-color:white;
+    border-radius: 3px;
+}
+
+.homework8{
+    color: black;
+    background-color:yellow;
+    border-radius: 3px; 
+}
+
+.col{
+width: 300px;
+display: inline-block;
+height: 10%;
+margin-left: 10px;
+padding: 5px;
+box-shadow: 10px;
+}
+
+.card-img{
+    height: 450px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.card-body{
+background-color: rgb(32, 31, 31);
+color: white;
+}
+
+
+.about-me{
+    text-align: right;
+    border: solid 1px gray;
+    border-radius: 15px;
+    padding: 15px;
+
+}
+
+
+.img-about-me{
+    border-radius: 15px;
+}
+
